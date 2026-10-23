@@ -11,6 +11,7 @@ This repository contains the projects I build throughout my journey of learning 
 | **Digital Business Card** | A responsive digital business card built with React.                                        | React, JavaScript, CSS, Vite                 |
 | **Travel Journal**        | A travel journal application that displays destinations and travel information dynamically. | React, JavaScript, CSS, Vite                 |
 | **Chef Claude**           | An AI-powered recipe generator that creates recipes from available ingredients.             | React, Express, Gemini API, JavaScript, Vite |
+| **Tenzies Game**           | A React App Done for fun which will work with swaping Numbers, Enjoy It            | React, JavaScript, Vite |
 
 ## 🛠️ Technologies
 
