@@ -43,6 +43,8 @@ Live demo links will be added as the projects are deployed.
 * **Digital Business Card** — Coming soon
 * **Travel Journal** — Coming soon
 * **Chef Claude** — Coming soon
+* **Tenzies** — Coming soon
+* **Assembly: EndGame** — Coming soon
 
 ## 📈 Learning Journey
 
