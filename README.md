@@ -12,6 +12,8 @@ This repository contains the projects I build throughout my journey of learning 
 | **Travel Journal**        | A travel journal application that displays destinations and travel information dynamically. | React, JavaScript, CSS, Vite                 |
 | **Chef Claude**           | An AI-powered recipe generator that creates recipes from available ingredients.             | React, Express, Gemini API, JavaScript, Vite |
 | **Tenzies Game**           | A React App Done for fun which will work with swaping Numbers, Enjoy It            | React, JavaScript, Vite |
+| **Assembly EndGame**           | Assembly: Endgame is a web-based, Hangman-style word guessing game where players must guess a hidden programming word within 8 attempts. Each incorrect guess eliminates a programming language from the world. The ultimate goal? Save the programming community from being forced to code entirely in assembly language!           | React, JavaScript, Vite |
+
 
 ## 🛠️ Technologies
 
